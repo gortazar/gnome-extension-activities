@@ -1,0 +1,8 @@
+{
+  "uuid": "gnome-extension-activities@gortazar.github.com",
+  "name": "Activities",
+  "description": "An experimental gnome-extension to check the feasibility of implementing KDE's activities under gnome shell",
+  "version": 0.1,
+  "shell-version": ["3.38", "40", "41", "42"],
+  "url": "https://github.com/gortazar/gnome-extension-activities"
+}
